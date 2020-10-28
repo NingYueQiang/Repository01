@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="boot-interface-api" />
+        <module name="boot-meeting-service" />
+        <module name="boot-pay-service" />
+        <module name="boot-user-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="boot-interface-api" target="1.7" />
+      <module name="boot-meeting-service" target="1.8" />
+      <module name="boot-pay-service" target="1.8" />
+      <module name="boot-user-service" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

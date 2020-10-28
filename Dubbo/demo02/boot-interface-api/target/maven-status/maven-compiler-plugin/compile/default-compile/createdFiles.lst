@@ -1,0 +1,7 @@
+com\qfjy\App.class
+com\qfjy\service\UserService.class
+com\qfjy\service\MeetingPubService.class
+com\qfjy\po\Account.class
+com\qfjy\po\MeetingPub.class
+com\qfjy\po\User.class
+com\qfjy\service\AccountService.class
